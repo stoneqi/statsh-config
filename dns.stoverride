@@ -18,4 +18,7 @@ rules:
 - DOMAIN-SUFFIX,xiaojukeji.com,DIRECT
 - DOMAIN-SUFFIX,didi.cn,DIRECT
 - DOMAIN-SUFFIX,didichuxing.com,DIRECT
+- DOMAIN-SUFFIX,didistatic.com,DIRECT
+- DOMAIN-SUFFIX,didiglobal.com,DIRECT
+- DOMAIN-SUFFIX,leetcode.cn,PROXY
 
