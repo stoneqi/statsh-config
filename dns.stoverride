@@ -14,3 +14,8 @@ dns:
     - 1.0.0.1
     - 8.8.8.8
     - 114.114.114.114
+rules:
+- DOMAIN-SUFFIX,xiaojukeji.com,DIRECT
+- DOMAIN-SUFFIX,didi.cn,DIRECT
+- DOMAIN-SUFFIX,didichuxing.com,DIRECT
+
