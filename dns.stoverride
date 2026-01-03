@@ -23,4 +23,5 @@ rules:
 - DOMAIN-SUFFIX,leetcode.cn,PROXY
 - DOMAIN-SUFFIX,steampowered.com,PROXY
 - DOMAIN-SUFFIX,bing.com,DIRECT
+- DOMAIN-SUFFIX,shadcn-ui.cn,PROXY
 
