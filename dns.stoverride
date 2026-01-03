@@ -22,4 +22,5 @@ rules:
 - DOMAIN-SUFFIX,didiglobal.com,DIRECT
 - DOMAIN-SUFFIX,leetcode.cn,PROXY
 - DOMAIN-SUFFIX,steampowered.com,PROXY
+- DOMAIN-SUFFIX,bing.com,PROXY
 
