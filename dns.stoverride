@@ -24,4 +24,5 @@ rules:
 - DOMAIN-SUFFIX,steampowered.com,PROXY
 - DOMAIN-SUFFIX,bing.com,DIRECT
 - DOMAIN-SUFFIX,shadcn-ui.cn,DIRECT
+- DOMAIN-SUFFIX,claude.com,PROXY
 
