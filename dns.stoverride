@@ -25,4 +25,5 @@ rules:
 - DOMAIN-SUFFIX,bing.com,DIRECT
 - DOMAIN-SUFFIX,shadcn-ui.cn,DIRECT
 - DOMAIN-SUFFIX,claude.com,PROXY
+- DOMAIN-SUFFIX,anthropic.com,PROXY
 
